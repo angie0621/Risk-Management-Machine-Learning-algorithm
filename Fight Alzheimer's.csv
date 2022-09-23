@@ -1,0 +1,14 @@
+Summary,Issue id,Status,Resolution,Assignee,Updated,Resolved,Due date,Original estimate,Time Spent,Custom field (Start date),Dependency,Label(Binary) Project with all tasks
+Project Proposal,10000,To Do,,Alexandra,28/Feb/22 1:42 PM,,,24 hours,18 hours,,,good
+SRS document,10001,To Do,,Angie,28/Feb/22 12:02 PM,,,36 hours,14 hours,,10000,good
+SDS document,10002,To Do,,Violet,28/Feb/22 12:02 PM,,,12 hours,8 hours,,10001,good
+Use case diagrams,10003,,,Alexandra,,,,8 hours,5 hours,,10002,good
+Sequence Diagrams,10004,To Do,,Angie,28/Feb/22 12:01 PM,,,8 hours,12 hours,,10003,bad
+ER model,10005,To Do,,Angie,28/Feb/22 12:01 PM,,,6 hours,4 hours,,10004,good
+Coding,10006,To Do,,Alexandra/ Angie/Violet,28/Feb/22 12:01 PM,,,72 hours,70 hours,,10005,good
+Create sign in page,10007,To Do,,Angie,28/Feb/22 12:02 PM,,,18 hours,16 hours,,10006,good
+Create log in page,10008,Done,Done,Violet,28/Feb/22 12:04 PM,28/Feb/22 12:04 PM,,16 hours,14 hours,,10007,good
+Welcome screen,10009,Done,Done,Angie,28/Feb/22 5:33 PM,28/Feb/22 12:04 PM,,4 hours,8 hours,,10008,bad
+Create Set reminders tab(using API),10010,To Do,,Alexandra,28/Feb/22 12:00 PM,,14/Apr/22 12:00 AM,24 hours,16 hours,17/Mar/22 12:00 AM,10009,good
+Create other tabs,10011,To Do,,Alexandra,28/Feb/22 11:59 AM,,27/Feb/22 12:00 AM,12hours,10 hours,14/Feb/22 12:00 AM,10010,good
+Testing phase,10012,,,Angie,,,,2 hours,1 hour,,10011,good

@@ -1,0 +1,21 @@
+Summary,Issue id,Status,Assignee,Updated,Last Viewed,Resolved,Due date,Original estimate,Time Spent,Custom field (Start date),Dependency,Label(Binary) Project with all tasks
+Problem statement,10018,Done,Alexey,07/Mar/22 1:12 PM,07/Mar/22 1:14 PM,,,12 hours,6 hours,,,good
+Project Proposal,10019,Done,Angie,,,,,24 hours,20 hours,,10018,good
+Assign project tasks to the team,10020,Done,Manoj,07/Mar/22 1:13 PM,07/Mar/22 1:14 PM,,29/Dec/21 12:00 AM,2 hours,1 hour,30/Nov/21 12:00 AM,10019,good
+Discuss budgeting,10021,Done,Violet,07/Mar/22 1:04 PM,07/Mar/22 1:14 PM,,,4 hours,4 hours,,10020,good
+Software Requirements Document,10022,Done,Latifah,07/Mar/22 1:04 PM,07/Mar/22 1:14 PM,,,48 hours,24 hours,,10021,good
+Use Case diagram,10023,Done,Alexandra,07/Mar/22 1:03 PM,07/Mar/22 1:14 PM,,,18 hours,12 hours,,10022,good
+Discuss Functional Requirements,10024,Done,Max,07/Mar/22 1:03 PM,07/Mar/22 1:14 PM,,,10  hours,8 hours,,10023,good
+Discuss the non functional requirements,10025,Done,Daniella,07/Mar/22 1:13 PM,07/Mar/22 1:14 PM,,28/Nov/21 12:00 AM,12 hours,11 hours,24/Jul/21 12:00 AM,10024,good
+Sequence Diagram,10026,Done,Klaus,07/Mar/22 1:00 PM,07/Mar/22 1:14 PM,,,36 hours,30 hours,,10025,good
+Software Design Document,10027,Done,Klaus/Angie/Violet,07/Mar/22 1:00 PM,07/Mar/22 1:14 PM,,,72 hours,48 hours,,10026,good
+Entity relationship diagram,10028,Done,Angie,07/Mar/22 1:07 PM,07/Mar/22 1:14 PM,,,6 hours,5.5 hours,,10027,good
+Layout of website UI design,10029,Done,Manoj/Angie,07/Mar/22 12:59 PM,07/Mar/22 1:14 PM,,,12 hours,9 hours,,10028,good
+Building the website,10030,Done,Angie/Alexey/Alexandra,07/Mar/22 12:59 PM,07/Mar/22 1:14 PM,,,96 hours,80 hours,,10029,good
+Login,10031,Done,Angie,07/Mar/22 12:59 PM,07/Mar/22 1:14 PM,,,24 hours,12 hours,,10030,good
+Sign up,10032,Done,Alexey,07/Mar/22 12:59 PM,07/Mar/22 1:14 PM,,18/Jul/21 12:00 AM,24 hours,23 hours,01/Jul/21 12:00 AM,10031,good
+View Foreign Exchange account,10033,Done,Latifah,07/Mar/22 1:07 PM,07/Mar/22 1:14 PM,,21/Jul/21 12:00 AM, 36 hours,22 hours,05/Jul/21 12:00 AM,10032,good
+Exchange currency tab,10034,Done,Latifah,07/Mar/22 12:58 PM,07/Mar/22 1:14 PM,,,48 hours,24 hours,,10033,good
+User testing,10035,Done,Sunny,07/Mar/22 12:56 PM,07/Mar/22 1:14 PM,,, 8 hours,7 hours,,10034,good
+Vendors testing the software for any bugs,10036,Done,Terry/Rosemary/Lyte,07/Mar/22 12:56 PM,07/Mar/22 1:14 PM,,,24 hours,25 hours,,10035,bad
+Releasing 2.0,10037,Done,Angie,07/Mar/22 1:06 PM,07/Mar/22 1:14 PM,,30/Jun/21 12:00 AM,9 hours,6 hours,13/Jun/21 12:00 AM,10036,good

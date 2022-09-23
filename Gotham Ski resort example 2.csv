@@ -1,0 +1,22 @@
+Summary,Issue id,Status,Assignee,Updated,Resolved,Due date (Expected date),Original estimate(amount of hours to solve tasks)  EXPECT,Time Spent,(Start date),Dependency,Project Completion Date,Label(Binary) Project with all tasks
+Release,10015,To Do,Angie,07/Mar/22 12:40 PM,,11/Jun/22 12:00 AM,.5 hour,.5 hour,29/May/22 12:00 AM,10014,11/Jun/2022,good
+Testing,10014,To Do,Angie,07/Mar/22 12:40 PM,,27/May/22 12:00 AM,2 hours,1 hour,14/May/22 12:00 AM,10013,11/Jun/2022,good
+Schedule Skiing lesson,10013,To Do,Angie,07/Mar/22 12:39 PM,,,14 hours,14 hours,,10012,11/Jun/2022,good
+Rent Equipment tab,10012,To Do,Yun.Wadi.Aung.Myat,07/Mar/22 12:39 PM,,,8 hours,4 hours,,10011,11/Jun/2022,good
+Welcome Page,10011,To Do,Angie,07/Mar/22 12:37 PM,,,12 hours,11 hours,,10009,11/Jun/2022,good
+Sign Up Page,10010,To Do,Jonathan.Leibovici,07/Mar/22 12:38 PM,,,8 hours,10 hours,,10008,11/Jun/2022,bad
+Login page,10009,To Do,,07/Mar/22 12:37 PM,,,8 hours,6 hours,,10009,11/Jun/2022,good
+Coding,10008,To Do,Angie,07/Mar/22 12:39 PM,,17/May/22 12:00 AM,96 hours,72 hours,10/Apr/22 12:00 AM,10007,11/Jun/2022,good
+Figma setup for website,10007,To Do,Angie,07/Mar/22 12:36 PM,,,2 hours,3 hours,,10005,11/Jun/2022,bad
+ER Diagram,10006,To Do,Angie,07/Mar/22 12:36 PM,,,6 hours,4 hours,,10004,11/Jun/2022,good
+SDS document,10005,To Do,Angie,07/Mar/22 12:36 PM,,01/Apr/22 12:00 AM,36 hours,30 hours,19/Mar/22 12:00 AM,10004,11/Jun/2022,good
+Functional Requirements,10004,In Progress,Angie,07/Mar/22 12:33 PM,,,48 hours,24 hours,,10003,11/Jun/2022,good
+Use case diagram,10003,Done,Angie,07/Mar/22 12:33 PM,07/Mar/22 12:33 PM,,12 hours,15 hours,,10002,11/Jun/2022,bad
+Scope Identificaiton,10002,Done,,07/Mar/22 12:32 PM,07/Mar/22 12:32 PM,,24 hours,20 hours,,10001,11/Jun/2022,good
+SRS document,10001,To Do,Angie,07/Mar/22 12:36 PM,,17/Mar/22 12:00 AM,72 hours,48 hrs,04/Mar/22 12:00 AM,,11/Jun/2022,good
+Problem statement,10000,To Do,,07/Mar/22 12:32 PM,,,,,,,11/Jun/2022,good
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Submit abstract to URC,12,,,,,,,,,13,,
+write abstract for URC,13,,,,,,,,,14,,
+Talk to Professor,14,,,,,,,,,,,

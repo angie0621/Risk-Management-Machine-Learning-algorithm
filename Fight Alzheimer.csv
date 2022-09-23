@@ -1,0 +1,14 @@
+Summary,Issue id,Status,Resolution,Assignee,Updated,Resolved,Due date,Original estimate (hrs),Time Spent,Custom field (Start date),Dependency,Label(Binary) Project with all tasks
+Project Proposal,10000,Done,Done,Alexandra,2/28/2022 13:42,2/12/2022,2/17/2022,24,18,2/9/2022 0:00,,good
+SRS document,10001,Done,Done,Angie,2/28/2022 12:02,2/13/2022,2/27/2022,36,14,2/14/2022 0:00,10000,good
+SDS document,10002,In Progress,To Do,Violet,2/28/2022 12:02,2/14/2022,3/31/2022,12,8,3/16/2022 0:00,10001,good
+Use case diagrams,10003,Done,Done,Alexey,,2/15/2022,4/5/2022,8,5,3/20/2022 0:00,10002,good
+Sequence Diagrams,10004,Done,Done,Jonathan,2/28/2022 12:01,2/16/2022,4/14/2022,8,12,3/18/2022 0:00,10003,bad
+ER model,10005,Done,Done,Max,2/28/2022 12:01,2/17/2022,4/23/2022,6,4,2/19/2022 0:00,10004,good
+Coding,10006,In Progress,Done,Klaus,2/28/2022 12:01,2/18/2022,4/30/2022,72,70,3/2/2022 0:00,10005,good
+Create sign in page,10007,Done,Done,Cleo,2/28/2022 12:02,2/19/2022,5/5/2022,18,16,3/11/2022 0:00,10006,good
+Create log in page,10008,Done,Done,Frankie,2/28/2022 12:04,2/28/2022 12:04,5/10/2022,16,14,3/12/2022 0:00,10007,good
+Welcome screen,10009,Done,Done,Green,2/28/2022 17:33,2/28/2022 12:04,5/17/2022,4,8,3/23/2022 0:00,10008,bad
+Create Set reminders tab(using API),10010,To Do,Done,Sean,2/28/2022 12:00,3/1/2022 12:04,5/19/2022 0:00,24,16,4/5/2022 0:00,10009,good
+Create other tabs,10011,To Do,Done,Blanca,2/28/2022 11:59,3/2/2022 12:04,5/19/2022 0:00,12,10,4/14/2022 0:00,10010,good
+Testing phase,10012,To Do,Done,DJ,,3/3/2022 12:04,5/25/2022,2,1,5/18/2022,10011,good
